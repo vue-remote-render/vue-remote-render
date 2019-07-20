@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vue": "^2.6.10",
-    "weex-vue-framework": "^2.5.15-weex.2"
-  }
+  "dependencies": {}
 }
