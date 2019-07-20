@@ -1,0 +1,15 @@
+{
+  "name": "vue-remote-render",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "weex-vue-framework": "^2.5.15-weex.2"
+  }
+}
